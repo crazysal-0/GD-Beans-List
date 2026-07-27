@@ -10,6 +10,16 @@
     },
 
     {
+        "name": "Allegiance",
+        "creator": "nikroplays",
+        "difficulty": "Extreme Demon",
+        "victors": [
+            "Daniel"
+        ],
+        "image": "allegiance.jpeg"
+    },
+
+    {
         "name": "Cataclysm",
         "creator": "Ggb0y",
         "difficulty": "Extreme Demon",
@@ -19,7 +29,7 @@
         "image": "cataclysm.jpeg"
     },
 
-        {
+    {
         "name": "Acu",
         "creator": "Neigefeu",
         "difficulty": "Extreme Demon",
