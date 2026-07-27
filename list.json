@@ -9,16 +9,6 @@
         "image": "bloodbath.jpeg"
     },
 
-        {
-        "name": "Acu",
-        "creator": "Neigefeu",
-        "difficulty": "Extreme Demon",
-        "victors": [
-            "Daniel"
-        ],
-        "image": "acu.webp"
-    },
-
     {
         "name": "Cataclysm",
         "creator": "Ggb0y",
@@ -27,5 +17,15 @@
             "Daniel"
         ],
         "image": "cataclysm.jpeg"
+    },
+
+        {
+        "name": "Acu",
+        "creator": "Neigefeu",
+        "difficulty": "Extreme Demon",
+        "victors": [
+            "Daniel"
+        ],
+        "image": "acu.webp"
     }
 ]
