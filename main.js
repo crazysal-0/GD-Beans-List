@@ -1,4 +1,4 @@
-fetch("levels.json")
+fetch("list.json")
     .then(response => response.json())
     .then(levels => {
 
