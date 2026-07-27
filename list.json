@@ -1,0 +1,21 @@
+[
+    {
+        "name": "Bloodbath",
+        "creator": "Riot",
+        "difficulty": "Extreme Demon",
+        "victors": [
+            "Daniel"
+        ],
+        "image": "bloodbath.jpeg"
+    },
+
+    {
+        "name": "Acu",
+        "creator": "Neigefeu",
+        "difficulty": "Extreme Demon",
+        "victors": [
+            "Daniel"
+        ],
+        "image": "acu.webp"
+    }
+]
