@@ -40,6 +40,16 @@
     },
 
     {
+        "name": "Invisible Deadlocked",
+        "creator": "KrmaL",
+        "difficulty": "Insane Demon",
+        "victors": [
+            "Daniel"
+        ],
+        "image": "invisible deadlocked.jpeg"
+    },
+
+    {
         "name": "Acropolis",
         "creator": "Zobros",
         "difficulty": "Insane Demon",
@@ -48,6 +58,37 @@
             "Chad"
         ],
         "image": "acropolis.jpeg"
+    },
+
+    {
+        "name": "Denoument",
+        "creator": "L413",
+        "difficulty": "Insane Demon",
+        "victors": [
+            "Daniel"
+        ],
+        "image": "duelo maestro.jpeg"
+    },
+
+
+    {
+        "name": "Nilscapes",
+        "creator": "L413",
+        "difficulty": "Insane Demon",
+        "victors": [
+            "Daniel"
+        ],
+        "image": "nilscapes.jpeg"
+    },
+
+    {
+        "name": "Duelo Maestro.jpeg",
+        "creator": "Nacho21",
+        "difficulty": "Insane Demon",
+        "victors": [
+            "Daniel"
+        ],
+        "image": "duelo maestro.jpeg"
     },
 
     {
@@ -68,16 +109,5 @@
             "Daniel"
         ],
         "image": "supersonic.jpeg"
-    },
-
-    {
-        "name": "Future Funk",
-        "creator": "JonathanGD",
-        "difficulty": "Hard Demon",
-        "victors": [
-            "Daniel",
-            "Muhammed"
-        ],
-        "image": "future funk.jpeg"
     }
 ]
