@@ -4,26 +4,53 @@ fetch("list.json")
 
         const main = document.querySelector("main");
 
-        levels.forEach(level => {
+        levels.forEach((level, index) => {
+
+            let records = "";
+
+            if (level.records && level.records.length > 0) {
+                records = level.records.map(record => `
+                    <p>
+                        <strong>${record.player}</strong>
+                        ${record.progress}
+                    </p>
+                `).join("");
+            } else {
+                records = "<p>No records yet.</p>";
+            }
 
             main.innerHTML += `
-                <div class="level-card">
+                <div class="level">
 
-                    <img src="images/${level.image}">
+                    <div class="placement">
+                        ${index + 1}
+                    </div>
 
-                    <div class="info">
+                    <div class="level-card">
 
-                        <h2>${level.name}</h2>
+                        <div class="image-column">
+                            <img src="images/${level.image}">
+                        </div>
 
-                        <p>${level.creator}</p>
+                        <div class="info">
 
-                        <span class="difficulty">
-                            ${level.difficulty}
-                        </span>
+                            <h3>Level Info</h3>
 
-                        <p>
-                            Victors: ${level.victors.join(", ")}
-                        </p>
+                            <h2>${level.name}</h2>
+
+                            <p>${level.creator}</p>
+
+                            <p>ID: ${level.id}</p>
+
+                        </div>
+
+                        <div class="records">
+
+                            <h3>Records</h3>
+
+                            ${records}
+
+                        </div>
 
                     </div>
 
@@ -32,4 +59,7 @@ fetch("list.json")
 
         });
 
+    })
+    .catch(error => {
+        console.error("Error loading levels:", error);
     });

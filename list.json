@@ -1,122 +1,184 @@
 [
     {
         "name": "Bloodbath",
+        "id": 10565740,
         "creator": "Riot",
         "difficulty": "Extreme Demon",
-        "victors": [
-            "Daniel"
+        "records": [
+            {
+                "player": "Daniel",
+                "progress": "100%"
+            }
         ],
         "image": "bloodbath.jpeg"
     },
 
     {
         "name": "Allegiance",
+        "id": 20761188,
         "creator": "nikroplays",
         "difficulty": "Extreme Demon",
-        "victors": [
-            "Daniel"
+        "records": [
+            {
+                "player": "Daniel",
+                "progress": "100%"
+            }
         ],
         "image": "allegiance.jpeg"
     },
 
     {
         "name": "Cataclysm",
+        "id": 20761188,
         "creator": "Ggb0y",
         "difficulty": "Extreme Demon",
-        "victors": [
-            "Daniel"
+        "records": [
+            {
+                "player": "Daniel",
+                "progress": "100%"
+            },
+            {
+                "player": "Muhammed",
+                "progress": "51%"
+            }
         ],
         "image": "cataclysm.jpeg"
     },
 
     {
         "name": "Acu",
+        "id": 61079355,
         "creator": "Neigefeu",
         "difficulty": "Extreme Demon",
-        "victors": [
-            "Daniel"
+        "records": [
+            {
+                "player": "Daniel",
+                "progress": "100%"
+            },
+            {
+                "player": "Sam",
+                "progress": "52%"
+            }
         ],
         "image": "acu.webp"
     },
 
     {
         "name": "Invisible Deadlocked",
+        "id": 14145098,
         "creator": "KrmaL",
         "difficulty": "Insane Demon",
-        "victors": [
-            "Daniel"
+        "records": [
+            {
+                "player": "Daniel",
+                "progress": "100%"
+            }
         ],
         "image": "invisible deadlocked.jpeg"
     },
 
     {
         "name": "Acropolis",
+        "id": 5155022,
         "creator": "Zobros",
         "difficulty": "Insane Demon",
-        "victors": [
-            "Daniel",
-            "Chad"
+        "records": [
+            {
+                "player": "Chad",
+                "progress": "100%"
+            },
+            {
+                "player": "Daniel",
+                "progress": "100%"
+            }
         ],
         "image": "acropolis.jpeg"
     },
 
     {
         "name": "Denoument",
+        "id": 60619762,
         "creator": "Synactive",
         "difficulty": "Insane Demon",
-        "victors": [
-            "Daniel"
+        "records": [
+            {
+                "player": "Daniel",
+                "progress": "100%"
+            }
         ],
         "image": "denoument.jpeg"
     },
 
-
     {
         "name": "Nilscapes",
+        "id": 126213470,
         "creator": "L413",
         "difficulty": "Insane Demon",
-        "victors": [
-            "Daniel"
+        "records": [
+            {
+                "player": "Daniel",
+                "progress": "100%"
+            }
         ],
         "image": "nilscapes.jpeg"
     },
 
     {
         "name": "Duelo Maestro",
+        "id": 23298409,
         "creator": "Nacho21",
         "difficulty": "Insane Demon",
-        "victors": [
-            "Daniel"
+        "records": [
+            {
+                "player": "Daniel",
+                "progress": "100%"
+            }
         ],
         "image": "duelo maestro.jpeg"
     },
 
     {
         "name": "Poltergeist",
+        "id": 7054561,
         "creator": "Andromeda GD",
         "difficulty": "Insane Demon",
-        "victors": [
-            "Daniel"
+        "records": [
+            {
+                "player": "Daniel",
+                "progress": "100%"
+            }
         ],
         "image": "poltergeist.jpeg"
     },
 
     {
         "name": "Windy Landscape",
+        "id": 4957691,
         "creator": "WOOGI1411",
         "difficulty": "Insane Demon",
-        "victors": [
-            "Daniel"
+        "records": [
+            {
+                "player": "Daniel",
+                "progress": "100%"
+            }
         ],
         "image": "windy landscape.jpeg"
     },
 
     {
         "name": "Supersonic",
+        "id": 4706930,
         "creator": "Andromeda GD",
         "difficulty": "Insane Demon",
-        "victors": [
-            "Daniel"
+        "records": [
+            {
+                "player": "Daniel",
+                "progress": "100%"
+            },
+            {
+                "player": "Muhammed",
+                "progress": "80%"
+            }
         ],
         "image": "supersonic.jpeg"
     }
