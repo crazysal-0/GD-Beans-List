@@ -37,5 +37,47 @@
             "Daniel"
         ],
         "image": "acu.webp"
+    },
+
+    {
+        "name": "Acropolis",
+        "creator": "Zobros",
+        "difficulty": "Insane Demon",
+        "victors": [
+            "Daniel",
+            "Chad"
+        ],
+        "image": "acropolis.jpeg"
+    },
+
+    {
+        "name": "Poltergeist",
+        "creator": "Andromeda GD",
+        "difficulty": "Insane Demon",
+        "victors": [
+            "Daniel"
+        ],
+        "image": "poltergeist.jpeg"
+    },
+
+    {
+        "name": "Supersonic",
+        "creator": "Andromeda GD",
+        "difficulty": "Insane Demon",
+        "victors": [
+            "Daniel"
+        ],
+        "image": "supersonic.jpeg"
+    },
+
+    {
+        "name": "Future Funk",
+        "creator": "JonathanGD",
+        "difficulty": "Hard Demon",
+        "victors": [
+            "Daniel",
+            "Muhammed"
+        ],
+        "image": "future funk.jpeg"
     }
 ]
