@@ -62,12 +62,12 @@
 
     {
         "name": "Denoument",
-        "creator": "L413",
+        "creator": "Synactive",
         "difficulty": "Insane Demon",
         "victors": [
             "Daniel"
         ],
-        "image": "duelo maestro.jpeg"
+        "image": "denoument.jpeg"
     },
 
 
@@ -82,7 +82,7 @@
     },
 
     {
-        "name": "Duelo Maestro.jpeg",
+        "name": "Duelo Maestro",
         "creator": "Nacho21",
         "difficulty": "Insane Demon",
         "victors": [
@@ -99,6 +99,16 @@
             "Daniel"
         ],
         "image": "poltergeist.jpeg"
+    },
+
+    {
+        "name": "Windy Landscape",
+        "creator": "WOOGI1411",
+        "difficulty": "Insane Demon",
+        "victors": [
+            "Daniel"
+        ],
+        "image": "windy landscape.jpeg"
     },
 
     {
