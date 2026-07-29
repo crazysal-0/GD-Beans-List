@@ -8,6 +8,10 @@ main {
     margin: 50px auto;
 }
 
+#header {
+    text-align: center;
+}
+
 
 /* Entire level */
 
